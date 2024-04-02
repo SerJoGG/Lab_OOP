@@ -1,0 +1,14 @@
+C:\Users\adm\Desktop\Lab2F\obj\Debug\net8.0\Lab2F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\Lab2F\obj\Debug\net8.0\Lab2F.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Lab2F\obj\Debug\net8.0\Lab2F.AssemblyInfo.cs
+C:\Users\adm\Desktop\Lab2F\obj\Debug\net8.0\Lab2F.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Lab2F\bin\Debug\net8.0\Lab2F.exe
+C:\Users\adm\Desktop\Lab2F\bin\Debug\net8.0\Lab2F.deps.json
+C:\Users\adm\Desktop\Lab2F\bin\Debug\net8.0\Lab2F.runtimeconfig.json
+C:\Users\adm\Desktop\Lab2F\bin\Debug\net8.0\Lab2F.dll
+C:\Users\adm\Desktop\Lab2F\bin\Debug\net8.0\Lab2F.pdb
+C:\Users\adm\Desktop\Lab2F\obj\Debug\net8.0\Lab2F.dll
+C:\Users\adm\Desktop\Lab2F\obj\Debug\net8.0\refint\Lab2F.dll
+C:\Users\adm\Desktop\Lab2F\obj\Debug\net8.0\Lab2F.pdb
+C:\Users\adm\Desktop\Lab2F\obj\Debug\net8.0\Lab2F.genruntimeconfig.cache
+C:\Users\adm\Desktop\Lab2F\obj\Debug\net8.0\ref\Lab2F.dll
